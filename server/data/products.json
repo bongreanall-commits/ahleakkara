@@ -42,12 +42,12 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 11,
+        "stock": 15,
         "inStock": true
       },
       {
         "size": "M",
-        "stock": 27,
+        "stock": 25,
         "inStock": true
       },
       {
@@ -57,11 +57,11 @@
       },
       {
         "size": "XL",
-        "stock": 10,
+        "stock": 9,
         "inStock": true
       }
     ],
-    "totalStock": 61,
+    "totalStock": 62,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=700&q=80",
@@ -69,7 +69,7 @@
     ],
     "description": "Double-face jersey knit with sleek cotton outside and smooth, moisture-wicking AIRism inside. Unmatched tropical comfort.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E425974-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-2",
@@ -115,7 +115,7 @@
       },
       {
         "size": "M",
-        "stock": 19,
+        "stock": 17,
         "inStock": true
       },
       {
@@ -124,7 +124,7 @@
         "inStock": true
       }
     ],
-    "totalStock": 29,
+    "totalStock": 27,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=700&q=80",
@@ -132,7 +132,7 @@
     ],
     "description": "Silky drape and wrinkle-resistant ease. An elegant essential blouse for office, casual outings, or formal events.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E464730-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-3",
@@ -170,12 +170,12 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 0,
-        "inStock": false
+        "stock": 3,
+        "inStock": true
       },
       {
         "size": "M",
-        "stock": 19,
+        "stock": 16,
         "inStock": true
       },
       {
@@ -191,7 +191,7 @@
     ],
     "description": "UPF 50+ UV protection with water-repellent coating. Folds into a tiny pouch for daily motorcycling and outdoor wear in Southeast Asia.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E453765-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-4",
@@ -238,18 +238,18 @@
       },
       {
         "size": "L",
-        "stock": 9,
+        "stock": 14,
         "inStock": true
       }
     ],
-    "totalStock": 35,
+    "totalStock": 40,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Cool natural linen combined with soft rayon drape. Relaxed boxy fit suited for warm sunny days.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E465190-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-5",
@@ -286,17 +286,17 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 2,
+        "stock": 1,
         "inStock": true
       },
       {
         "size": "M",
-        "stock": 11,
+        "stock": 10,
         "inStock": true
       },
       {
         "size": "L",
-        "stock": 9,
+        "stock": 5,
         "inStock": true
       },
       {
@@ -305,14 +305,14 @@
         "inStock": true
       }
     ],
-    "totalStock": 29,
+    "totalStock": 23,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Tapered elegant silhouette with elastic concealed waistband. 2-way stretch allows effortless flexibility at work or dinners.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E464887-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-6",
@@ -349,12 +349,12 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 18,
+        "stock": 17,
         "inStock": true
       },
       {
         "size": "M",
-        "stock": 13,
+        "stock": 11,
         "inStock": true
       },
       {
@@ -363,14 +363,14 @@
         "inStock": true
       }
     ],
-    "totalStock": 36,
+    "totalStock": 33,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Sophisticated pleated front creates a clean vertical drape that flatters leg lines. Wrinkle-resistant premium twill.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E460311-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-7",
@@ -424,7 +424,7 @@
     ],
     "description": "Built-in contoured bra cups with seamless edge bondings. Does not show lines under thin shirts.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E464426-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-8",
@@ -466,23 +466,23 @@
       },
       {
         "size": "M",
-        "stock": 10,
+        "stock": 8,
         "inStock": true
       },
       {
         "size": "L",
-        "stock": 11,
+        "stock": 9,
         "inStock": true
       }
     ],
-    "totalStock": 24,
+    "totalStock": 20,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Worn by top world athletes. Rapid moisture evaporation technology prevents sweat chill and odor during workouts.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E456782-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-9",
@@ -536,7 +536,7 @@
     ],
     "description": "Breathable, smooth AIRism cotton keeps kids cool and sweat-free throughout playtime and school.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E463890-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-10",
@@ -574,7 +574,7 @@
       },
       {
         "size": "130",
-        "stock": 9,
+        "stock": 8,
         "inStock": true
       },
       {
@@ -583,14 +583,14 @@
         "inStock": true
       }
     ],
-    "totalStock": 24,
+    "totalStock": 23,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1508807526345-15e9b5f4eaff?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Extra stretchy ripstop cotton with spacious cargo side pockets. Reinforced knees withstand rough school play.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E464120-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-11",
@@ -628,23 +628,23 @@
       },
       {
         "size": "80cm",
-        "stock": 6,
+        "stock": 9,
         "inStock": true
       },
       {
         "size": "90cm",
-        "stock": 17,
+        "stock": 20,
         "inStock": true
       }
     ],
-    "totalStock": 30,
+    "totalStock": 36,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "100% gentle combed cotton ribbed knit. Flat-seamed construction ensures zero irritation on baby's tender skin.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E461230-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-vn-12",
@@ -677,23 +677,23 @@
     "sizes": [
       {
         "size": "80cm",
-        "stock": 11,
+        "stock": 14,
         "inStock": true
       },
       {
         "size": "90cm",
-        "stock": 15,
+        "stock": 13,
         "inStock": true
       }
     ],
-    "totalStock": 26,
+    "totalStock": 27,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Light cropped length keeps knees protected while preventing overheating in warm climates.",
     "originalUrl": "https://www.uniqlo.com/vn/en/products/E462880-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-1",
@@ -749,11 +749,11 @@
       },
       {
         "size": "L",
-        "stock": 2,
-        "inStock": true
+        "stock": 0,
+        "inStock": false
       }
     ],
-    "totalStock": 29,
+    "totalStock": 27,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=700&q=80",
@@ -761,7 +761,7 @@
     ],
     "description": "Trendy sheer fabric with a delicate texture. Perfect for stylish layered looks and everyday comfort.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E465712-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-2",
@@ -794,7 +794,7 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 6,
+        "stock": 4,
         "inStock": true
       },
       {
@@ -808,14 +808,14 @@
         "inStock": false
       }
     ],
-    "totalStock": 23,
+    "totalStock": 21,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Featuring an airy check pattern. Soft stretchy material that feels light on skin.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E465823-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-3",
@@ -857,7 +857,7 @@
       },
       {
         "size": "M",
-        "stock": 14,
+        "stock": 13,
         "inStock": true
       },
       {
@@ -866,14 +866,14 @@
         "inStock": true
       }
     ],
-    "totalStock": 21,
+    "totalStock": 20,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Fluffy, light, and remarkably warm. Designed for effortless indoor loungewear or outdoor cold-weather layering.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E461405-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-4",
@@ -906,28 +906,28 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 1,
-        "inStock": true
+        "stock": 0,
+        "inStock": false
       },
       {
         "size": "M",
-        "stock": 4,
+        "stock": 11,
         "inStock": true
       },
       {
         "size": "L",
-        "stock": 2,
+        "stock": 6,
         "inStock": true
       }
     ],
-    "totalStock": 7,
-    "stockStatus": "LOW_STOCK",
+    "totalStock": 17,
+    "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Exclusive collaboration with Liberty London. Sophisticated floral motifs printed on ultra-soft stretch fabric.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E468201-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-5",
@@ -990,7 +990,7 @@
     ],
     "description": "750+ fill power premium down in a feather-light shell with durable water repellent finish. Compact pouch included.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E459631-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-6",
@@ -1044,7 +1044,7 @@
     ],
     "description": "1.5x warmer than regular HEATTECH with 100% gentle cotton touching the skin. Essential cold-weather base layer.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E460391-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-7",
@@ -1081,7 +1081,7 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 2,
+        "stock": 1,
         "inStock": true
       },
       {
@@ -1091,18 +1091,18 @@
       },
       {
         "size": "L",
-        "stock": 6,
+        "stock": 5,
         "inStock": true
       }
     ],
-    "totalStock": 23,
+    "totalStock": 21,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Non-itchy souffle finish that feels as light as air with fluffy cloud-like warmth.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E461085-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-8",
@@ -1143,18 +1143,18 @@
     "sizes": [
       {
         "size": "One Size",
-        "stock": 40,
+        "stock": 43,
         "inStock": true
       }
     ],
-    "totalStock": 40,
+    "totalStock": 43,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "The world famous crescent dumpling bag. Fits water bottle, phones, cosmetics and keys while remaining feather-light.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E464483-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-9",
@@ -1187,7 +1187,7 @@
     "sizes": [
       {
         "size": "110",
-        "stock": 5,
+        "stock": 4,
         "inStock": true
       },
       {
@@ -1201,14 +1201,14 @@
         "inStock": true
       }
     ],
-    "totalStock": 20,
+    "totalStock": 19,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Classic preppy argyle pattern knitted with non-itchy gentle cotton-acrylic yarn. Machine washable.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E463200-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-10",
@@ -1241,7 +1241,7 @@
     "sizes": [
       {
         "size": "120",
-        "stock": 6,
+        "stock": 5,
         "inStock": true
       },
       {
@@ -1251,18 +1251,18 @@
       },
       {
         "size": "140",
-        "stock": 6,
+        "stock": 4,
         "inStock": true
       }
     ],
-    "totalStock": 17,
+    "totalStock": 14,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1508807526345-15e9b5f4eaff?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Windproof outer layer backed with warm micro-fleece lining. Keep active children warm during breezy autumn and winter.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E463510-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-11",
@@ -1311,7 +1311,7 @@
     ],
     "description": "Super soft brushed fleece leggings designed for lively toddlers. Flexible waist elastic doesn't pinch.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E462991-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "uq-jp-12",
@@ -1349,18 +1349,18 @@
       },
       {
         "size": "80cm",
-        "stock": 2,
+        "stock": 1,
         "inStock": true
       }
     ],
-    "totalStock": 11,
-    "stockStatus": "IN_STOCK",
+    "totalStock": 10,
+    "stockStatus": "LOW_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Insulating diamond quilt stitching keeps toddlers cozy. Color-coded snap buttons prevent mismatching in the dark.",
     "originalUrl": "https://www.uniqlo.com/jp/ja/products/E463110-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-1",
@@ -1415,7 +1415,7 @@
     ],
     "description": "Smooth cotton blend fabric with mock neck collar. Easy to style with skirts or trousers.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E351294-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-2",
@@ -1474,7 +1474,7 @@
     ],
     "description": "Versatile warm tone pullover sweatshirt. Premium soft-touch lining designed for everyday warmth.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E351295-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-3",
@@ -1512,23 +1512,23 @@
       },
       {
         "size": "M",
-        "stock": 6,
+        "stock": 5,
         "inStock": true
       },
       {
         "size": "L",
-        "stock": 11,
+        "stock": 10,
         "inStock": true
       }
     ],
-    "totalStock": 29,
+    "totalStock": 27,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "The viral sensation in Tokyo! Distinctive barrel curve silhouette creates high-fashion proportions effortlessly.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E352014-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-4",
@@ -1582,7 +1582,7 @@
     ],
     "description": "Adjustable cord hem allows wide or tapered leg styling. Lightweight durable ripstop fabric.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E350121-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-5",
@@ -1629,7 +1629,7 @@
       },
       {
         "size": "L",
-        "stock": 8,
+        "stock": 6,
         "inStock": true
       },
       {
@@ -1638,14 +1638,14 @@
         "inStock": true
       }
     ],
-    "totalStock": 60,
+    "totalStock": 58,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Substantial heavyweight fleece hood that stands upright with structured volume. An urban Tokyo streetwear icon.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E349880-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-6",
@@ -1703,7 +1703,7 @@
     ],
     "description": "Brushed warm-touch micro-cotton knit with relaxed mock collar. Perfect under jackets or worn standalone.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E351189-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-7",
@@ -1736,7 +1736,7 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 16,
+        "stock": 12,
         "inStock": true
       },
       {
@@ -1750,14 +1750,14 @@
         "inStock": true
       }
     ],
-    "totalStock": 47,
+    "totalStock": 43,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Soft ribbed sweater with gentle brush treatment for maximum fluffiness without bulk.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E351902-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-8",
@@ -1790,7 +1790,7 @@
     "sizes": [
       {
         "size": "S",
-        "stock": 3,
+        "stock": 1,
         "inStock": true
       },
       {
@@ -1804,14 +1804,14 @@
         "inStock": true
       }
     ],
-    "totalStock": 24,
+    "totalStock": 22,
     "stockStatus": "IN_STOCK",
     "images": [
       "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=80"
     ],
     "description": "Wide, relaxed leg profile with center pleats that elongate posture. Casual or semi-formal.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E350550-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-9",
@@ -1865,7 +1865,7 @@
     ],
     "description": "Durable heavyweight cotton fleece tailored for active kids. Pre-washed for soft wear right out of the box.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E351090-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-10",
@@ -1898,13 +1898,13 @@
     "sizes": [
       {
         "size": "120",
-        "stock": 13,
+        "stock": 11,
         "inStock": true
       },
       {
         "size": "130",
-        "stock": 0,
-        "inStock": false
+        "stock": 2,
+        "inStock": true
       },
       {
         "size": "140",
@@ -1919,7 +1919,7 @@
     ],
     "description": "Kids version of the viral parachute trousers. Super comfortable stretch with adjustable ankles.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E351420-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-11",
@@ -1968,7 +1968,7 @@
     ],
     "description": "Comfortable stretch baby trousers with roomy diaper fit and adjustable soft elastic waistband.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E350892-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   },
   {
     "id": "gu-jp-12",
@@ -2017,6 +2017,6 @@
     ],
     "description": "Sleeveless fluffy fleece vest slips on quickly over onesies or long sleeve tees when the room gets cool.",
     "originalUrl": "https://www.gu-global.com/jp/ja/products/E350711-000",
-    "lastSyncedAt": "2026-11-03T15:03:06.409Z"
+    "lastSyncedAt": "2026-11-03T15:10:06.447Z"
   }
 ]
