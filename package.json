@@ -1,0 +1,22 @@
+{
+  "name": "ah-leak-x-kara",
+  "version": "1.0.0",
+  "description": "AH LEAK x ការ៉ា E-Commerce Store with Real-time Stock Sync for GU, Uniqlo JP & Uniqlo VN",
+  "main": "server/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "dev:server": "node server/server.js",
+    "dev:client": "cd client && npm run dev",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build": "cd client && npm run build"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

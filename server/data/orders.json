@@ -1,0 +1,119 @@
+[
+  {
+    "orderId": "ALK-647260",
+    "trackingCode": "KH-EXP-466919",
+    "createdAt": "2026-10-29T02:40:47.260Z",
+    "status": "CONFIRMED",
+    "customer": {
+      "fullName": "Chhay Bunna",
+      "phone": "69555681",
+      "telegram": "",
+      "province": "Phnom Penh (រាជធានីភ្នំពេញ)",
+      "district": "",
+      "commune": "Phnom Penh",
+      "addressDetail": "7C, st 656",
+      "notes": ""
+    },
+    "shippingMethod": {
+      "id": "pp_express",
+      "name": "Phnom Penh Express (1-2 Days)",
+      "fee": 1.5
+    },
+    "paymentMethod": {
+      "type": "KHQR",
+      "name": "KHQR (Bakong / ABA / ACLEDA)"
+    },
+    "items": [
+      {
+        "cartItemId": "uq-jp-7-L-Chestnut Brown",
+        "productId": "uq-jp-7",
+        "name": "Souffle Yarn Mock Neck Knitted Sweater",
+        "nameKhmer": "អាវចាក់រោមចៀមទន់ Souffle Yarn",
+        "sku": "UQ-JP-461085",
+        "storeId": "uniqlo_jp",
+        "storeName": "UNIQLO Japan",
+        "priceUsd": 28,
+        "originalPriceUsd": 34,
+        "selectedSize": "L",
+        "selectedColor": {
+          "name": "Chestnut Brown",
+          "hex": "#6F4E37"
+        },
+        "image": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=700&q=80",
+        "quantity": 1
+      }
+    ],
+    "pricing": {
+      "subtotal": 28,
+      "discount": 0,
+      "shippingFee": 1.5,
+      "totalUsd": 29.5,
+      "totalKhr": 120950
+    },
+    "statusTimeline": [
+      {
+        "status": "ORDER_PLACED",
+        "time": "2026-10-29T02:40:47.260Z",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "PAYMENT_PENDING_CONFIRMATION",
+        "time": "2026-10-29T02:40:47.260Z",
+        "note": "Payment receipt received"
+      }
+    ]
+  },
+  {
+    "orderId": "ALK-689295",
+    "trackingCode": "KH-EXP-599756",
+    "createdAt": "2026-10-28T23:21:29.295Z",
+    "status": "CONFIRMED",
+    "customer": {
+      "fullName": "Bunna Tester",
+      "phone": "012999888",
+      "telegram": "bunnatester",
+      "province": "Phnom Penh (រាជធានីភ្នំពេញ)",
+      "district": "",
+      "commune": "",
+      "addressDetail": "House #12, Street 310, BKK1",
+      "notes": ""
+    },
+    "shippingMethod": {
+      "name": "Phnom Penh Express (1-2 Days)",
+      "fee": 0
+    },
+    "paymentMethod": {
+      "type": "KHQR",
+      "name": "KHQR (Bakong / ABA)"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "productId": "prod-1",
+        "name": "Soft Sheer Tank Top",
+        "selectedSize": "M",
+        "quantity": 2,
+        "priceUsd": 12
+      }
+    ],
+    "pricing": {
+      "subtotal": 24,
+      "discount": 0,
+      "shippingFee": 0,
+      "totalUsd": 24,
+      "totalKhr": 98400
+    },
+    "statusTimeline": [
+      {
+        "status": "ORDER_PLACED",
+        "time": "2026-10-28T23:21:29.295Z",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "PAYMENT_PENDING_CONFIRMATION",
+        "time": "2026-10-28T23:21:29.295Z",
+        "note": "Payment receipt received"
+      }
+    ]
+  }
+]
