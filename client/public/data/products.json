@@ -1,0 +1,2022 @@
+[
+  {
+    "id": "uq-vn-1",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "AIRism Cotton Oversized T-Shirt",
+    "nameKhmer": "អាវយឺត AIRism Cotton Oversized ពេញនិយម",
+    "nameOriginal": "អាវយឺត AIRism Cotton Oversized ពេញនិយម",
+    "sku": "UQ-VN-425974",
+    "priceUsd": 16,
+    "originalPriceUsd": 19,
+    "priceOriginalCurrency": "399.000 VND",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "BESTSELLER",
+    "colorCount": 8,
+    "colors": [
+      {
+        "name": "Pure White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Pitch Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Dark Orange",
+        "hex": "#C85A17"
+      },
+      {
+        "name": "Sage Olive",
+        "hex": "#708238"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#1B2A4A"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 11,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 27,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 13,
+        "inStock": true
+      },
+      {
+        "size": "XL",
+        "stock": 5,
+        "inStock": true
+      }
+    ],
+    "totalStock": 56,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=700&q=80",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Double-face jersey knit with sleek cotton outside and smooth, moisture-wicking AIRism inside. Unmatched tropical comfort.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E425974-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-2",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "Rayon Long Sleeve Collarless Blouse",
+    "nameKhmer": "អាវសូត្រ Rayon ដៃវែងគ្មានក",
+    "nameOriginal": "អាវសូត្រ Rayon ដៃវែងគ្មានក",
+    "sku": "UQ-VN-464730",
+    "priceUsd": 24,
+    "originalPriceUsd": 29,
+    "priceOriginalCurrency": "599.000 VND",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 5,
+    "colors": [
+      {
+        "name": "Off White",
+        "hex": "#FAF0E6"
+      },
+      {
+        "name": "Baby Blue",
+        "hex": "#89CFF0"
+      },
+      {
+        "name": "Dusty Pink",
+        "hex": "#D8A47F"
+      },
+      {
+        "name": "Navy",
+        "hex": "#000080"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 6,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 19,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 6,
+        "inStock": true
+      }
+    ],
+    "totalStock": 31,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=700&q=80",
+      "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Silky drape and wrinkle-resistant ease. An elegant essential blouse for office, casual outings, or formal events.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E464730-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-3",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "UV Protection Pocketable Parka",
+    "nameKhmer": "អាវក្រៅការពារកម្ដៅថ្ងៃ UV Protection",
+    "nameOriginal": "អាវក្រៅការពារកម្ដៅថ្ងៃ UV Protection",
+    "sku": "UQ-VN-453765",
+    "priceUsd": 29,
+    "originalPriceUsd": 35,
+    "priceOriginalCurrency": "699.000 VND",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": true,
+    "badge": "LIMITED",
+    "endsDate": "Ends 29 Oct",
+    "colorCount": 6,
+    "colors": [
+      {
+        "name": "Pastel Mint",
+        "hex": "#98FF98"
+      },
+      {
+        "name": "Lilac Purple",
+        "hex": "#C8A2C8"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "M",
+        "stock": 20,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 13,
+        "inStock": true
+      }
+    ],
+    "totalStock": 33,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "UPF 50+ UV protection with water-repellent coating. Folds into a tiny pouch for daily motorcycling and outdoor wear in Southeast Asia.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E453765-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-4",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "Linen Blend Open Collar Short Sleeve Shirt",
+    "nameKhmer": "អាវសាច់អំបោះ Linen Blend បើកក",
+    "nameOriginal": "អាវសាច់អំបោះ Linen Blend បើកក",
+    "sku": "UQ-VN-465190",
+    "priceUsd": 22,
+    "originalPriceUsd": 26,
+    "priceOriginalCurrency": "499.000 VND",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": true,
+    "isNewArrival": false,
+    "isSpecialDeal": true,
+    "badge": "SALE",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Natural Beige",
+        "hex": "#E8D8C8"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Olive",
+        "hex": "#556B2F"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 5,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 18,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 9,
+        "inStock": true
+      }
+    ],
+    "totalStock": 32,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Cool natural linen combined with soft rayon drape. Relaxed boxy fit suited for warm sunny days.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E465190-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-5",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "Smart Ankle Pants (2-Way Stretch)",
+    "nameKhmer": "ខោ Smart Ankle Pants យឺត២ទិសដៅ",
+    "nameOriginal": "ខោ Smart Ankle Pants យឺត២ទិសដៅ",
+    "sku": "UQ-VN-464887",
+    "priceUsd": 32,
+    "originalPriceUsd": 38,
+    "priceOriginalCurrency": "799.000 VND",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "TRENDING",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Charcoal Grey",
+        "hex": "#36454F"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 2,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 11,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 9,
+        "inStock": true
+      },
+      {
+        "size": "XL",
+        "stock": 8,
+        "inStock": true
+      }
+    ],
+    "totalStock": 30,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Tapered elegant silhouette with elastic concealed waistband. 2-way stretch allows effortless flexibility at work or dinners.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E464887-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-6",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "Pleated Wide Leg High-Waist Pants",
+    "nameKhmer": "ខោជើងធំផ្នត់ Pleated Wide Leg",
+    "nameOriginal": "ខោជើងធំផ្នត់ Pleated Wide Leg",
+    "sku": "UQ-VN-460311",
+    "priceUsd": 32,
+    "originalPriceUsd": 39,
+    "priceOriginalCurrency": "799.000 VND",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "BESTSELLER",
+    "colorCount": 5,
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#FFFDD0"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#4A4A4A"
+      },
+      {
+        "name": "Olive",
+        "hex": "#556B2F"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 18,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 13,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 5,
+        "inStock": true
+      }
+    ],
+    "totalStock": 36,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Sophisticated pleated front creates a clean vertical drape that flatters leg lines. Wrinkle-resistant premium twill.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E460311-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-7",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "AIRism Seamless V-Neck Bra Top",
+    "nameKhmer": "អាវក្នុងវាល AIRism Seamless Bra Top",
+    "nameOriginal": "អាវក្នុងវាល AIRism Seamless Bra Top",
+    "sku": "UQ-VN-464426",
+    "priceUsd": 20,
+    "originalPriceUsd": 25,
+    "priceOriginalCurrency": "499.000 VND",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 2,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 27,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 29,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Built-in contoured bra cups with seamless edge bondings. Does not show lines under thin shirts.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E464426-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-8",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "DRY-EX Performance Active Crew T-Shirt",
+    "nameKhmer": "អាវកីឡា DRY-EX ស្ងួតលឿន",
+    "nameOriginal": "អាវកីឡា DRY-EX ស្ងួតលឿន",
+    "sku": "UQ-VN-456782",
+    "priceUsd": 16,
+    "originalPriceUsd": 20,
+    "priceOriginalCurrency": "399.000 VND",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": false,
+    "isNewArrival": false,
+    "isSpecialDeal": true,
+    "badge": "SALE",
+    "colorCount": 5,
+    "colors": [
+      {
+        "name": "Heather Grey",
+        "hex": "#9E9E9E"
+      },
+      {
+        "name": "Midnight Black",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#4169E1"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 3,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 10,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 11,
+        "inStock": true
+      }
+    ],
+    "totalStock": 24,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Worn by top world athletes. Rapid moisture evaporation technology prevents sweat chill and odor during workouts.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E456782-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-9",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "Kids AIRism Cotton Graphic T-Shirt",
+    "nameKhmer": "អាវកូនក្មេង AIRism Cotton រូបភាពគួរឱ្យស្រឡាញ់",
+    "nameOriginal": "អាវកូនក្មេង AIRism Cotton រូបភាពគួរឱ្យស្រឡាញ់",
+    "sku": "UQ-VN-463890",
+    "priceUsd": 11,
+    "originalPriceUsd": 14,
+    "priceOriginalCurrency": "249.000 VND",
+    "currency": "USD",
+    "category": "kids",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Sunny Yellow",
+        "hex": "#FCD206"
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#87CEEB"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "110",
+        "stock": 3,
+        "inStock": true
+      },
+      {
+        "size": "120",
+        "stock": 22,
+        "inStock": true
+      },
+      {
+        "size": "130",
+        "stock": 8,
+        "inStock": true
+      }
+    ],
+    "totalStock": 33,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Breathable, smooth AIRism cotton keeps kids cool and sweat-free throughout playtime and school.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E463890-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-10",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "Kids Ultra Stretch Cargo Pants",
+    "nameKhmer": "ខោហោប៉ៅក្មេង Ultra Stretch Cargo",
+    "nameOriginal": "ខោហោប៉ៅក្មេង Ultra Stretch Cargo",
+    "sku": "UQ-VN-464120",
+    "priceUsd": 20,
+    "originalPriceUsd": 25,
+    "priceOriginalCurrency": "499.000 VND",
+    "currency": "USD",
+    "category": "kids",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Khaki",
+        "hex": "#C3B091"
+      },
+      {
+        "name": "Dark Navy",
+        "hex": "#1B2A4A"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "120",
+        "stock": 4,
+        "inStock": true
+      },
+      {
+        "size": "130",
+        "stock": 10,
+        "inStock": true
+      },
+      {
+        "size": "140",
+        "stock": 11,
+        "inStock": true
+      }
+    ],
+    "totalStock": 25,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1508807526345-15e9b5f4eaff?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Extra stretchy ripstop cotton with spacious cargo side pockets. Reinforced knees withstand rough school play.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E464120-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-11",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "Baby Cotton Ribbed Bodysuit (2-Pack)",
+    "nameKhmer": "ឈុតទារក Cotton Ribbed Bodysuit (កញ្ចប់ ២)",
+    "nameOriginal": "ឈុតទារក Cotton Ribbed Bodysuit (កញ្ចប់ ២)",
+    "sku": "UQ-VN-461230",
+    "priceUsd": 13,
+    "originalPriceUsd": 16,
+    "priceOriginalCurrency": "299.000 VND",
+    "currency": "USD",
+    "category": "baby",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Pastel Pink",
+        "hex": "#F8BBD0"
+      },
+      {
+        "name": "Soft Blue",
+        "hex": "#BBDEFB"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "70cm",
+        "stock": 7,
+        "inStock": true
+      },
+      {
+        "size": "80cm",
+        "stock": 6,
+        "inStock": true
+      },
+      {
+        "size": "90cm",
+        "stock": 17,
+        "inStock": true
+      }
+    ],
+    "totalStock": 30,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "100% gentle combed cotton ribbed knit. Flat-seamed construction ensures zero irritation on baby's tender skin.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E461230-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-vn-12",
+    "storeId": "uniqlo_vn",
+    "storeName": "UNIQLO Vietnam",
+    "name": "Baby Cropped Leggings (Soft Cotton)",
+    "nameKhmer": "ខោខ្លីទារក Baby Cropped Leggings",
+    "nameOriginal": "ខោខ្លីទារក Baby Cropped Leggings",
+    "sku": "UQ-VN-462880",
+    "priceUsd": 8.5,
+    "originalPriceUsd": 11,
+    "priceOriginalCurrency": "199.000 VND",
+    "currency": "USD",
+    "category": "baby",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 5,
+    "colors": [
+      {
+        "name": "Mint Green",
+        "hex": "#A2E8DD"
+      },
+      {
+        "name": "Yellow Floral",
+        "hex": "#FFE082"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "80cm",
+        "stock": 11,
+        "inStock": true
+      },
+      {
+        "size": "90cm",
+        "stock": 15,
+        "inStock": true
+      }
+    ],
+    "totalStock": 26,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Light cropped length keeps knees protected while preventing overheating in warm climates.",
+    "originalUrl": "https://www.uniqlo.com/vn/en/products/E462880-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-1",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "Soft Sheer Tank Top",
+    "nameKhmer": "អាវវាលក្លៀក Soft Sheer Tank Top",
+    "nameOriginal": "ソフトシアータンクトップ",
+    "sku": "UQ-JP-465712",
+    "priceUsd": 12,
+    "originalPriceUsd": 15,
+    "priceOriginalCurrency": "1,500円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 6,
+    "colors": [
+      {
+        "name": "Off White",
+        "hex": "#F8F8F8"
+      },
+      {
+        "name": "Light Gray",
+        "hex": "#C4C4C4"
+      },
+      {
+        "name": "Black",
+        "hex": "#1E1E1E"
+      },
+      {
+        "name": "Pink",
+        "hex": "#E8A598"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 5,
+        "inStock": true
+      },
+      {
+        "size": "S",
+        "stock": 1,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 22,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 2,
+        "inStock": true
+      }
+    ],
+    "totalStock": 30,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=700&q=80",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Trendy sheer fabric with a delicate texture. Perfect for stylish layered looks and everyday comfort.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E465712-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-2",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "Sheer Check T (Long Sleeve)",
+    "nameKhmer": "អាវដៃវែងក្រឡាចក្រ Sheer Check",
+    "nameOriginal": "シアーチェックT(長袖)",
+    "sku": "UQ-JP-465823",
+    "priceUsd": 13,
+    "originalPriceUsd": 16,
+    "priceOriginalCurrency": "1,990円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 2,
+    "colors": [
+      {
+        "name": "Red Plaid",
+        "hex": "#B84852"
+      },
+      {
+        "name": "Monochrome Navy",
+        "hex": "#2C394B"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 6,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 17,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 23,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Featuring an airy check pattern. Soft stretchy material that feels light on skin.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E465823-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-3",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "UNIQLO Fleece Full-Zip Jacket",
+    "nameKhmer": "អាវរងារសាច់រោមចៀម Fleece Jacket",
+    "nameOriginal": "フリースジャケット（長袖）",
+    "sku": "UQ-JP-461405",
+    "priceUsd": 29,
+    "originalPriceUsd": 35,
+    "priceOriginalCurrency": "3,990円",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 6,
+    "colors": [
+      {
+        "name": "Pine Green",
+        "hex": "#1B4D3E"
+      },
+      {
+        "name": "Off White",
+        "hex": "#FAF0E6"
+      },
+      {
+        "name": "Chestnut Brown",
+        "hex": "#6F4E37"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "M",
+        "stock": 14,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 9,
+        "inStock": true
+      }
+    ],
+    "totalStock": 23,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Fluffy, light, and remarkably warm. Designed for effortless indoor loungewear or outdoor cold-weather layering.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E461405-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-4",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "UNIQLO Liberty London High Neck T",
+    "nameKhmer": "អាវកខ្ពស់ Liberty London ផ្កាស្រស់",
+    "nameOriginal": "リバティロンドン ハイネックT",
+    "sku": "UQ-JP-468201",
+    "priceUsd": 22,
+    "originalPriceUsd": 28,
+    "priceOriginalCurrency": "2,990円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Floral Wine",
+        "hex": "#722F37"
+      },
+      {
+        "name": "Midnight Botanical",
+        "hex": "#0D1B2A"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 3,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 4,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 2,
+        "inStock": true
+      }
+    ],
+    "totalStock": 9,
+    "stockStatus": "LOW_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Exclusive collaboration with Liberty London. Sophisticated floral motifs printed on ultra-soft stretch fabric.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E468201-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-5",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "Ultra Light Down Jacket (3D Cut)",
+    "nameKhmer": "អាវក្រៅរោមទាស្រាលពិសេស Ultra Light Down",
+    "nameOriginal": "ウルトラライトダウンジャケット（3Dカット）",
+    "sku": "UQ-JP-459631",
+    "priceUsd": 49,
+    "originalPriceUsd": 59,
+    "priceOriginalCurrency": "6,990円",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": true,
+    "badge": "BESTSELLER",
+    "colorCount": 6,
+    "colors": [
+      {
+        "name": "Matte Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Olive Khaki",
+        "hex": "#556B2F"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "M",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "L",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "XL",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "750+ fill power premium down in a feather-light shell with durable water repellent finish. Compact pouch included.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E459631-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-6",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "HEATTECH Extra Warm Cotton Crew Neck",
+    "nameKhmer": "អាវរក្សាកម្ដៅ HEATTECH Extra Warm",
+    "nameOriginal": "ヒートテック極暖 コットンクルーネックT",
+    "sku": "UQ-JP-460391",
+    "priceUsd": 18,
+    "originalPriceUsd": 22,
+    "priceOriginalCurrency": "2,490円",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Off White",
+        "hex": "#FAF0E6"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 26,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 36,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 19,
+        "inStock": true
+      }
+    ],
+    "totalStock": 81,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "1.5x warmer than regular HEATTECH with 100% gentle cotton touching the skin. Essential cold-weather base layer.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E460391-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-7",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "Souffle Yarn Mock Neck Knitted Sweater",
+    "nameKhmer": "អាវចាក់រោមចៀមទន់ Souffle Yarn",
+    "nameOriginal": "スフレヤーンモックネックセーター",
+    "sku": "UQ-JP-461085",
+    "priceUsd": 28,
+    "originalPriceUsd": 34,
+    "priceOriginalCurrency": "3,990円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "TRENDING",
+    "colorCount": 5,
+    "colors": [
+      {
+        "name": "Cream Beige",
+        "hex": "#F5F5DC"
+      },
+      {
+        "name": "Mocha Brown",
+        "hex": "#8B5A2B"
+      },
+      {
+        "name": "Dusty Rose",
+        "hex": "#DCAE96"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 2,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 15,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 2,
+        "inStock": true
+      }
+    ],
+    "totalStock": 19,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Non-itchy souffle finish that feels as light as air with fluffy cloud-like warmth.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E461085-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-8",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "Round Mini Shoulder Bag (Viral TikTok Bag)",
+    "nameKhmer": "កាបូបស្ពាយពេញនិយម Round Mini Shoulder Bag",
+    "nameOriginal": "ラウンドミニショルダーバッグ",
+    "sku": "UQ-JP-464483",
+    "priceUsd": 12,
+    "originalPriceUsd": 15,
+    "priceOriginalCurrency": "1,500円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "BESTSELLER",
+    "colorCount": 8,
+    "colors": [
+      {
+        "name": "Dumpling Cream",
+        "hex": "#FFFDD0"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Olive",
+        "hex": "#556B2F"
+      },
+      {
+        "name": "Wine",
+        "hex": "#722F37"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "One Size",
+        "stock": 40,
+        "inStock": true
+      }
+    ],
+    "totalStock": 40,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "The world famous crescent dumpling bag. Fits water bottle, phones, cosmetics and keys while remaining feather-light.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E464483-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-9",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "UNIQLO Kids Argyle Jacquard Sweater",
+    "nameKhmer": "អាវយឺតក្មេងលំនាំពេជ្រ Argyle",
+    "nameOriginal": "キッズ アーガイルジャカードセーター",
+    "sku": "UQ-JP-463200",
+    "priceUsd": 19,
+    "originalPriceUsd": 24,
+    "priceOriginalCurrency": "2,490円",
+    "currency": "USD",
+    "category": "kids",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Navy Argyle",
+        "hex": "#1B2A4A"
+      },
+      {
+        "name": "Ivory Grey",
+        "hex": "#E0E0E0"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "110",
+        "stock": 5,
+        "inStock": true
+      },
+      {
+        "size": "120",
+        "stock": 7,
+        "inStock": true
+      },
+      {
+        "size": "130",
+        "stock": 9,
+        "inStock": true
+      }
+    ],
+    "totalStock": 21,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Classic preppy argyle pattern knitted with non-itchy gentle cotton-acrylic yarn. Machine washable.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E463200-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-10",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "Kids Fleece Warm-Lined Easy Pants",
+    "nameKhmer": "ខោរងារកូនក្មេង Fleece Warm-Lined",
+    "nameOriginal": "キッズ フリースウォームイージーパンツ",
+    "sku": "UQ-JP-463510",
+    "priceUsd": 18,
+    "originalPriceUsd": 22,
+    "priceOriginalCurrency": "2,490円",
+    "currency": "USD",
+    "category": "kids",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Khaki Olive",
+        "hex": "#556B2F"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "120",
+        "stock": 6,
+        "inStock": true
+      },
+      {
+        "size": "130",
+        "stock": 5,
+        "inStock": true
+      },
+      {
+        "size": "140",
+        "stock": 6,
+        "inStock": true
+      }
+    ],
+    "totalStock": 17,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1508807526345-15e9b5f4eaff?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Windproof outer layer backed with warm micro-fleece lining. Keep active children warm during breezy autumn and winter.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E463510-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-11",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "UNIQLO Baby Warm Fleece Easy Leggings",
+    "nameKhmer": "ខោកូនក្មេង Baby Warm Fleece",
+    "nameOriginal": "ベビー フリースレギンス",
+    "sku": "UQ-JP-462991",
+    "priceUsd": 9.5,
+    "originalPriceUsd": 12,
+    "priceOriginalCurrency": "1,290円",
+    "currency": "USD",
+    "category": "baby",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 6,
+    "colors": [
+      {
+        "name": "Lavender Lilac",
+        "hex": "#BDB2FF"
+      },
+      {
+        "name": "Grass Green",
+        "hex": "#588157"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "80cm",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "90cm",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Super soft brushed fleece leggings designed for lively toddlers. Flexible waist elastic doesn't pinch.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E462991-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "uq-jp-12",
+    "storeId": "uniqlo_jp",
+    "storeName": "UNIQLO Japan",
+    "name": "Baby Quilted Full-Open Warm Coverall",
+    "nameKhmer": "ឈុតទារកក្ដៅ Quilted Full-Open Coverall",
+    "nameOriginal": "キルトカバーオール（長袖）",
+    "sku": "UQ-JP-463110",
+    "priceUsd": 16,
+    "originalPriceUsd": 20,
+    "priceOriginalCurrency": "2,290円",
+    "currency": "USD",
+    "category": "baby",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Starry Grey",
+        "hex": "#D3D3D3"
+      },
+      {
+        "name": "Powder Pink",
+        "hex": "#FFD1DC"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "70cm",
+        "stock": 9,
+        "inStock": true
+      },
+      {
+        "size": "80cm",
+        "stock": 2,
+        "inStock": true
+      }
+    ],
+    "totalStock": 11,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Insulating diamond quilt stitching keeps toddlers cozy. Color-coded snap buttons prevent mismatching in the dark.",
+    "originalUrl": "https://www.uniqlo.com/jp/ja/products/E463110-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-1",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "Smooth Sweat T (Long Sleeve) Red Stripe",
+    "nameKhmer": "អាវយឺតដៃវែងឆ្នូត Smooth Sweat T",
+    "nameOriginal": "スムーススウェットT(長袖)",
+    "sku": "GU-JP-351294",
+    "priceUsd": 17,
+    "originalPriceUsd": 22,
+    "priceOriginalCurrency": "2,290円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": true,
+    "isNewArrival": false,
+    "isSpecialDeal": true,
+    "badge": "LIMITED",
+    "endsDate": "Ends 29 Oct",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Burgundy Stripe",
+        "hex": "#800020"
+      },
+      {
+        "name": "Navy Stripe",
+        "hex": "#1B2A4A"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "M",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "L",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Smooth cotton blend fabric with mock neck collar. Easy to style with skirts or trousers.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E351294-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-2",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "Smooth Sweat T (Long Sleeve) Earth Tone",
+    "nameKhmer": "អាវដៃវែងពណ៌ដី Smooth Sweat T",
+    "nameOriginal": "スムーススウェットT(長袖)",
+    "sku": "GU-JP-351295",
+    "priceUsd": 17,
+    "originalPriceUsd": 22,
+    "priceOriginalCurrency": "2,290円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": true,
+    "isNewArrival": false,
+    "isSpecialDeal": true,
+    "badge": "LIMITED",
+    "endsDate": "Ends 29 Oct",
+    "colorCount": 5,
+    "colors": [
+      {
+        "name": "Earth Brown",
+        "hex": "#5D4037"
+      },
+      {
+        "name": "Soft Pink",
+        "hex": "#F8BBD0"
+      },
+      {
+        "name": "Cream Beige",
+        "hex": "#FFF8E1"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "M",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "L",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Versatile warm tone pullover sweatshirt. Premium soft-touch lining designed for everyday warmth.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E351295-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-3",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "GU Barrel Leg Curve Denim Jeans",
+    "nameKhmer": "ខោខូវប៊យម៉ូតកោង Barrel Leg Jeans",
+    "nameOriginal": "バレルレッグジーンズ",
+    "sku": "GU-JP-352014",
+    "priceUsd": 28,
+    "originalPriceUsd": 34,
+    "priceOriginalCurrency": "2,990円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": true,
+    "badge": "TRENDING",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Light Blue Wash",
+        "hex": "#7CB9E8"
+      },
+      {
+        "name": "Vintage Medium Blue",
+        "hex": "#4682B4"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 12,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 6,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 11,
+        "inStock": true
+      }
+    ],
+    "totalStock": 29,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "The viral sensation in Tokyo! Distinctive barrel curve silhouette creates high-fashion proportions effortlessly.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E352014-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-4",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "GU Parachute Cargo Utility Pants",
+    "nameKhmer": "ខោហោប៉ៅច្រើន Parachute Cargo Pants",
+    "nameOriginal": "パラシュートカーゴパンツ",
+    "sku": "GU-JP-350121",
+    "priceUsd": 24,
+    "originalPriceUsd": 29,
+    "priceOriginalCurrency": "2,490円",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": true,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Military Khaki",
+        "hex": "#7B8365"
+      },
+      {
+        "name": "Stealth Black",
+        "hex": "#1A1A1A"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "M",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "L",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Adjustable cord hem allows wide or tapered leg styling. Lightweight durable ripstop fabric.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E350121-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-5",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "Heavyweight Sweat Oversized Hoodie",
+    "nameKhmer": "អាវរងាមានមួក Heavyweight Sweat Hoodie",
+    "nameOriginal": "ヘビーウェイトスウェットプルパーカ",
+    "sku": "GU-JP-349880",
+    "priceUsd": 24,
+    "originalPriceUsd": 30,
+    "priceOriginalCurrency": "2,990円",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "BESTSELLER",
+    "colorCount": 5,
+    "colors": [
+      {
+        "name": "Heather Grey",
+        "hex": "#D3D3D3"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Deep Green",
+        "hex": "#1B4D3E"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 24,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 17,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 8,
+        "inStock": true
+      },
+      {
+        "size": "XL",
+        "stock": 11,
+        "inStock": true
+      }
+    ],
+    "totalStock": 60,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Substantial heavyweight fleece hood that stands upright with structured volume. An urban Tokyo streetwear icon.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E349880-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-6",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "Soft Touch Mock Neck Long Sleeve T",
+    "nameKhmer": "អាវកខ្ពស់ទន់ Soft Touch Mock Neck",
+    "nameOriginal": "ソフトタッチモックネックT(長袖)",
+    "sku": "GU-JP-351189",
+    "priceUsd": 13,
+    "originalPriceUsd": 16,
+    "priceOriginalCurrency": "1,490円",
+    "currency": "USD",
+    "category": "men",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Dark Brown",
+        "hex": "#5D4037"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#37474F"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "M",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "L",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Brushed warm-touch micro-cotton knit with relaxed mock collar. Perfect under jackets or worn standalone.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E351189-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-7",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "Brushed Ribbed High Neck Sweater",
+    "nameKhmer": "អាវរោមចៀមឆ្នូត Brushed Ribbed High Neck",
+    "nameOriginal": "ブラッシュドリブハイネックセーター",
+    "sku": "GU-JP-351902",
+    "priceUsd": 17,
+    "originalPriceUsd": 22,
+    "priceOriginalCurrency": "2,290円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Oatmeal",
+        "hex": "#E3DAC9"
+      },
+      {
+        "name": "Dusty Blue",
+        "hex": "#6699CC"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 16,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 19,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 10,
+        "inStock": true
+      }
+    ],
+    "totalStock": 45,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Soft ribbed sweater with gentle brush treatment for maximum fluffiness without bulk.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E351902-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-8",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "Tuck Wide Pleated Trousers",
+    "nameKhmer": "ខោជើងធំ Tuck Wide Pants",
+    "nameOriginal": "タックワイドパンツ",
+    "sku": "GU-JP-350550",
+    "priceUsd": 24,
+    "originalPriceUsd": 29,
+    "priceOriginalCurrency": "2,990円",
+    "currency": "USD",
+    "category": "women",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "TRENDING",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Dark Grey",
+        "hex": "#404040"
+      },
+      {
+        "name": "Natural Beige",
+        "hex": "#F5F5DC"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "S",
+        "stock": 3,
+        "inStock": true
+      },
+      {
+        "size": "M",
+        "stock": 17,
+        "inStock": true
+      },
+      {
+        "size": "L",
+        "stock": 4,
+        "inStock": true
+      }
+    ],
+    "totalStock": 24,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Wide, relaxed leg profile with center pleats that elongate posture. Casual or semi-formal.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E350550-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-9",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "GU Kids Heavyweight Sweat Pullover",
+    "nameKhmer": "អាវយឺតក្មេង GU Heavyweight",
+    "nameOriginal": "KIDS ヘビーウェイトスウェットプルオーバー",
+    "sku": "GU-JP-351090",
+    "priceUsd": 15,
+    "originalPriceUsd": 19,
+    "priceOriginalCurrency": "1,690円",
+    "currency": "USD",
+    "category": "kids",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Heather Gray",
+        "hex": "#D3D3D3"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "110",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "120",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "130",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1508807526345-15e9b5f4eaff?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Durable heavyweight cotton fleece tailored for active kids. Pre-washed for soft wear right out of the box.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E351090-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-10",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "Kids Parachute Relaxed Pants",
+    "nameKhmer": "ខោទាន់សម័យកូនក្មេង GU Kids Parachute",
+    "nameOriginal": "KIDS パラシュートパンツ",
+    "sku": "GU-JP-351420",
+    "priceUsd": 16,
+    "originalPriceUsd": 20,
+    "priceOriginalCurrency": "1,990円",
+    "currency": "USD",
+    "category": "kids",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "TRENDING",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#556B2F"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "120",
+        "stock": 10,
+        "inStock": true
+      },
+      {
+        "size": "130",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "140",
+        "stock": 4,
+        "inStock": true
+      }
+    ],
+    "totalStock": 14,
+    "stockStatus": "IN_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Kids version of the viral parachute trousers. Super comfortable stretch with adjustable ankles.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E351420-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-11",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "GU Baby Soft Warm Easy Pants",
+    "nameKhmer": "ខោកូនក្មេង GU Baby Soft Warm",
+    "nameOriginal": "BABY イージーパンツ",
+    "sku": "GU-JP-350892",
+    "priceUsd": 8.5,
+    "originalPriceUsd": 11,
+    "priceOriginalCurrency": "990円",
+    "currency": "USD",
+    "category": "baby",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "SALE",
+    "colorCount": 4,
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#8B4513"
+      },
+      {
+        "name": "Cream",
+        "hex": "#FFFDD0"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "80cm",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "90cm",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Comfortable stretch baby trousers with roomy diaper fit and adjustable soft elastic waistband.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E350892-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  },
+  {
+    "id": "gu-jp-12",
+    "storeId": "gu_jp",
+    "storeName": "GU Japan",
+    "name": "Baby Fluffy Fleece Warm Vest",
+    "nameKhmer": "អាវកាក់រោមចៀមទារក GU Baby Fluffy Fleece",
+    "nameOriginal": "BABY フリースベスト",
+    "sku": "GU-JP-350711",
+    "priceUsd": 12,
+    "originalPriceUsd": 15,
+    "priceOriginalCurrency": "1,490円",
+    "currency": "USD",
+    "category": "baby",
+    "isFeaturedHome": false,
+    "isNewArrival": true,
+    "isSpecialDeal": false,
+    "badge": "NEW",
+    "colorCount": 3,
+    "colors": [
+      {
+        "name": "Off White",
+        "hex": "#FAF0E6"
+      },
+      {
+        "name": "Chestnut",
+        "hex": "#954535"
+      }
+    ],
+    "sizes": [
+      {
+        "size": "80cm",
+        "stock": 0,
+        "inStock": false
+      },
+      {
+        "size": "90cm",
+        "stock": 0,
+        "inStock": false
+      }
+    ],
+    "totalStock": 0,
+    "stockStatus": "OUT_OF_STOCK",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=700&q=80"
+    ],
+    "description": "Sleeveless fluffy fleece vest slips on quickly over onesies or long sleeve tees when the room gets cool.",
+    "originalUrl": "https://www.gu-global.com/jp/ja/products/E350711-000",
+    "lastSyncedAt": "2026-11-01T02:43:04.379Z"
+  }
+]

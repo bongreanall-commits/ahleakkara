@@ -402,7 +402,7 @@ export function StoreProvider({ children }) {
     localStorage.setItem('alk_cart', JSON.stringify(cart));
   }, [cart]);
 
-  // Fetch products from server
+  // Fetch products from server (with automatic GitHub Pages static fallback)
   const fetchProducts = useCallback(async () => {
     try {
       const res = await fetch('/api/products');
@@ -410,10 +410,24 @@ export function StoreProvider({ children }) {
         const data = await res.json();
         if (Array.isArray(data) && data.length > 0) {
           setProducts(data);
+          return;
         }
       }
     } catch (err) {
-      console.warn('Backend not responding yet, using local catalog cache');
+      // Backend not running (e.g. GitHub Pages static hosting)
+    }
+
+    // Static fallback for GitHub Pages hosting: load from ./data/products.json
+    try {
+      const staticRes = await fetch('./data/products.json');
+      if (staticRes.ok) {
+        const staticData = await staticRes.json();
+        if (Array.isArray(staticData) && staticData.length > 0) {
+          setProducts(staticData);
+        }
+      }
+    } catch (staticErr) {
+      console.warn('Using embedded local catalog cache');
     }
   }, []);
 
